@@ -42,17 +42,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/projetos/estrutura-condicional"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.exercicio3">
-    <configuration name="exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio1" />
-      <module name="exercicio-estrutura-condicional" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.exercicio6">
     <configuration name="exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio2" />
       <module name="exercicio-estrutura-condicional" />
@@ -67,11 +61,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio4" />
+      <module name="exercicio-estrutura-condicional" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio5" />
+      <module name="exercicio-estrutura-condicional" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio6" />
+      <module name="exercicio-estrutura-condicional" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicio6" />
+        <item itemvalue="Application.exercicio5" />
+        <item itemvalue="Application.exercicio4" />
         <item itemvalue="Application.exercicio3" />
         <item itemvalue="Application.exercicio2" />
-        <item itemvalue="Application.exercicio1" />
       </list>
     </recent_temporary>
   </component>
